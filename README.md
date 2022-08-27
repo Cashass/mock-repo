@@ -3519,11 +3519,10 @@ My name is Eugene.
 
 I'm happy to be here!
 
-<<<<<<< HEAD
 
 Hello, I'm Vitaly.
 happy to join the kottans team
-=======
+
 ## My name is Ksenia !
 Let's learn together
 [Ksenia](https://github.com/KseniaZahorodniuk)
